@@ -100,22 +100,22 @@ export const workData = [
     {
         title: 'Curve Revive',
         description: 'Shopify Development',
-        bgImage: '/new-weeb-1.png',
+        bgImage: '/Fahad-Portfolio/new-weeb-1.png',
     },
     {
         title: 'Seren Herbs',
         description: 'Shopify Development',
-        bgImage: '/new-weeb-3.png',
+        bgImage: '/Fahad-Portfolio/new-weeb-3.png',
     },
     {
         title: 'AB Beds',
         description: 'Shopify Development',
-        bgImage: '/new-weeb-2.png',
+        bgImage: '/Fahad-Portfolio/new-weeb-2.png',
     },
     {
         title: 'Heti Products',
         description: 'Shopify Development',
-        bgImage: '/new-weeb-4.png',
+        bgImage: '/Fahad-Portfolio/new-weeb-4.png',
     },
 ]
 
