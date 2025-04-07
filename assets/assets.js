@@ -133,6 +133,12 @@ export const workData = [
         bgImage: '/Fahad-Portfolio/new-weeb-6.png',
         link: 'https://simpledose.co/'
     },
+    {
+        title: 'Age Defense',
+        description: 'Shopify Development',
+        bgImage: '/Fahad-Portfolio/new-weeb-7.png',
+        link: 'https://www.agedefense.com/'
+    },
 ]
 
 export const serviceData = [
