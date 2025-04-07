@@ -30,7 +30,7 @@ const Work = ({isDarkMode}) => {
        <motion.div initial={{ opacity: 0 }}
   whileInView={{ opacity: 1}}
   transition={{ delay: 0.9, duration: 0.6 }}
-        className='grid grid-cols-auto my-10 gap-5 dark:text-black'>
+        className='grid grid-cols-4 my-10 gap-5 dark:text-black'>
   {workData.map((project, index) => (
 
 <Link href={project.link}>
