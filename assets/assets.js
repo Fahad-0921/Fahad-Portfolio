@@ -130,7 +130,7 @@ export const workData = [
     {
         title: 'Simple Dose',
         description: 'Shopify Development',
-        bgImage: '/Fahad-Portfolio/new-weeb-6.png',
+        bgImage: '/Fahad-Portfolio/new-weeb-5.png',
         link: 'https://simpledose.co/'
     },
 ]
