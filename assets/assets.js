@@ -127,6 +127,12 @@ export const workData = [
         bgImage: '/Fahad-Portfolio/new-weeb-5.png',
         link: 'https://nisolacole.com/'
     },
+    {
+        title: 'Simple Dose',
+        description: 'Shopify Development',
+        bgImage: '/Fahad-Portfolio/new-weeb-6.png',
+        link: 'https://simpledose.co/'
+    },
 ]
 
 export const serviceData = [
