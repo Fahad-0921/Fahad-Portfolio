@@ -1,5 +1,5 @@
 import my_about_img from './my_about_img.jpg';
-import Profile__img from './Profile__img.jpg';
+import Profile__img from './Profile__img.png';
 import code_icon from './code-icon.png';
 import code_icon_dark from './code-icon-dark.png';
 import edu_icon from './edu-icon.png';
@@ -69,7 +69,7 @@ export const assets = {
     logo_dark,
     mail_icon,
     mail_icon_dark,
-    profile_img,
+    Profile__img,
     download_icon,
     hand_icon,
     header_bg_color,
