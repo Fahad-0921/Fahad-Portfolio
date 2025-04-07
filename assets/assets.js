@@ -139,6 +139,12 @@ export const workData = [
         bgImage: '/Fahad-Portfolio/new-weeb-7.png',
         link: 'https://www.agedefense.com/'
     },
+    {
+        title: 'The Captains Warehouse',
+        description: 'Shopify Development',
+        bgImage: '/Fahad-Portfolio/new-weeb-8.png',
+        link: 'https://thecaptainswarehouse.com/'
+    },
 ]
 
 export const serviceData = [
