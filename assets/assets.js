@@ -101,21 +101,37 @@ export const workData = [
         title: 'Curve Revive',
         description: 'Shopify Development',
         bgImage: '/Fahad-Portfolio/new-weeb-1.png',
+        link: 'https://curverevive.com'
     },
     {
         title: 'Seren Herbs',
         description: 'Shopify Development',
         bgImage: '/Fahad-Portfolio/new-weeb-3.png',
+        link: 'https://sereneherbs.com'
     },
     {
         title: 'AB Beds',
         description: 'Shopify Development',
         bgImage: '/Fahad-Portfolio/new-weeb-2.png',
+        link: 'https://abbeds.com/'
     },
     {
         title: 'Heti Products',
         description: 'Shopify Development',
         bgImage: '/Fahad-Portfolio/new-weeb-4.png',
+        link: 'https://hetiproducts.com/'
+    },
+    {
+        title: 'Nisola Cole',
+        description: 'Shopify Development',
+        bgImage: '/Fahad-Portfolio/new-weeb-5.png',
+        link: 'https://nisolacole.com/'
+    },
+    {
+        title: 'Simple Dose',
+        description: 'Shopify Development',
+        bgImage: '/Fahad-Portfolio/new-weeb-6.png',
+        link: 'https://simpledose.co/'
     },
 ]
 
